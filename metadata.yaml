@@ -1,0 +1,25 @@
+_repo: A-Manual-for-Teaching-Biblical-History_44754
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44754-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Kohn, Eugene
+    birthdate: 1887
+    gutenberg_agent_id: '42907'
+    url: http://www.gutenberg.org/2009/agents/42907
+description: ''
+gutenberg_issued: '2014-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BM'
+- !lcsh 'Jewish religious education of children -- United States'
+title: A Manual for Teaching Biblical History
+url: http://www.gutenberg.org/ebooks/44754
